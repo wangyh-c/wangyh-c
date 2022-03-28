@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Ed, a backend python developer.
+
+  - [My Profile](https://wangyh-c.github.io/)
 
 <!--
 **wangyh-c/wangyh-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
